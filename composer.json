@@ -1,0 +1,13 @@
+{
+    "name": "camilo/api_actas",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "dompdf/dompdf": "^2.0",
+        "vlucas/valitron": "^1.4",
+        "phpmailer/phpmailer": "^6.7"
+    }
+}
